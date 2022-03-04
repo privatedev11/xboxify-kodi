@@ -1,0 +1,16 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+
+<addon id="resource.uisounds.xboxify" version="1.0.0" name="Xboxify" provider-name="PrivateMe">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.uisounds"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Xbox sounds for Kodi</summary>
+    <description lang="en">Xbox sounds for Kodi</description>
+    <platform>all</platform>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
